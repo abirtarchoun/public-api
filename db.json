@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Abir Tarchoun",
       "mail": "abirtarchoun.8@gmail.com",
-      "phone": "+21628097322",
+      "phone": "28097322",
       "image": "images/abir.jpg",
       "city": "bizerte"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "name": "Wassim Hachani",
       "mail": "WassimHachani@gmail.com",
-      "phone": "+21612345678",
+      "phone": "24345678",
       "image": "images/wassim.jpg",
       "city": "bizerte"
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "name": "Nour Trigui",
       "mail": "NourTrigui@gmail.com",
-      "phone": "+21678563412",
+      "phone": "78563412",
       "image": "images/nour.jpg",
       "city": "tunis"
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "name": "Rayen Nafouti",
       "mail": "rayennafouti@gmail.com",
-      "phone": "+21621436587",
+      "phone": "21436587",
       "image": "images/rayen.jpg",
       "city": "tunis"
     }
